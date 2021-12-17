@@ -1,7 +1,6 @@
 # CatchYou v2
 ## Author: github.com/SrMilton
 ### Created by: TheLinuxChoice
-### Read the license before using any part from this code :) 
 
 Fully Undetectable Win32 MSFVenom Payload Generator (meterpreter/shell reverse tcp)
 
@@ -9,6 +8,7 @@ Fully Undetectable Win32 MSFVenom Payload Generator (meterpreter/shell reverse t
 This is not only a reupload, i've changed what i needed to test in Win7. I have NOT tested on Win8 or 10. This was used to test a private anti-cheat and i don't need this anymore so feel free to use (read legal disclaimer).
 #### >FUD Windows 7 (Tested with Microsoft Security Essentials)
 #### >Fixed "problem" with ngrok connection
+### Read the license before using any part from this code :) 
 
 ![cyex](https://user-images.githubusercontent.com/34893261/80262581-43c42100-8664-11ea-9b88-be791ea007b9.png)
 ![IaU7VYlCXFwb](https://user-images.githubusercontent.com/34893261/80262663-8d147080-8664-11ea-83af-ec178ba82b6b.png)
